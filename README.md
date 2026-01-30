@@ -24,9 +24,8 @@ ARP-Defender — это легковесный и мощный инструме�
 ## 📦 Установка
 
 1. Склонируйте репозиторий:
-   `bash
-   git clone https://github.com/king77743/ARP-Defender
-   cd ARP-Defender
+*   git clone https://github.com/king77743/ARP-Defender
+*   cd ARP-Defender
 2. Установите зависимости:
    pip install scapy
 ## 💻 Использование
