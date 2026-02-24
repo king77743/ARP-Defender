@@ -35,7 +35,7 @@ pip install scapy
 Для работы с низкоуровневыми пакетами скрипту нужны права sudo:
      
    ```
-   sudo python3 arp_defender.py
+   sudo python3 arp-defender.py
    ```
 
 Как это работает:
